@@ -58,10 +58,6 @@ This dashboard transforms business and customer data into interactive visual ins
 
 The objective of this project is to convert raw business and customer data into an interactive Power BI dashboard that provides meaningful insights into business performance and customer behavior.
 
-## Dashboard Image
-
-[View Full Dashboard Image](./Business%20Performance%20%26%20Customer%20Analytics%20Dashboard.png)
-
 ## Author
 
 **Nikhil Kankatri**
