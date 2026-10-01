@@ -4,8 +4,7 @@ An interactive Power BI dashboard designed to analyze business performance, cust
 
 ## Dashboard Preview
 
-![Business Performance & Customer Analytics Dashboard]([View Dashboard](./Business%20Performance%20%26%20Customer%20Analytics%20Dashboard.png))
-
+![Business Performance & Customer Analytics Dashboard](./Business%20Performance%20%26%20Customer%20Analytics%20Dashboard.png)
 ## Project Overview
 
 This dashboard transforms business and customer data into interactive visual insights to support data-driven decision-making.
